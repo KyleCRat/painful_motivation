@@ -6,4 +6,6 @@ layout: home
 ---
 
 
-# Painful Motication
+# Painful Motivation
+
+This is a site to hold basic info for PM members.
